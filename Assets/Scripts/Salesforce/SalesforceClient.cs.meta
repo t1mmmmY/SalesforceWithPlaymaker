@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a996b29320004fd42b29ce5b3289c189
+timeCreated: 1439351277
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sf: {instanceID: 0}
+  - fromSalesforce: {instanceID: 0}
+  - Ring: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
